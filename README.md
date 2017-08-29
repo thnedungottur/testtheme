@@ -1,0 +1,2 @@
+# testtheme
+my wordpress testtheme
